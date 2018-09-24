@@ -40,10 +40,10 @@
                 <a href="/">Home</a>
             </li>
             <li>
-                <a href="#">- Sidebar 1</a>
+                <a href="/halamandua">- Halaman 1</a>
             </li>
             <li>
-                <a href="#">- Sidebar 2</a>
+                <a href="/halamantiga">- Halaman 2</a>
             </li>
         </ul>
     </aside>
