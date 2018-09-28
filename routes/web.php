@@ -14,3 +14,14 @@
 Route::get('/', function () {
     return view('index');
 });
+
+Route::get('/halaman 1', function () {
+    return view('halaman 1');
+});
+
+Route::get('/halaman 2', function () {
+    return view('halaman 2');
+});
+
+Route::get('adjie/tambah','web@tambah');
+Route::resource('adjie','web');
