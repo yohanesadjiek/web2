@@ -15,12 +15,12 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/halaman 1', function () {
-    return view('halaman 1');
+Route::get('/halaman1', function () {
+    return view('halaman1');
 });
 
 Route::get('/halaman 2', function () {
-    return view('halaman 2');
+    return view('halaman2');
 });
 
 Route::get('adjie/tambah','web@tambah');
